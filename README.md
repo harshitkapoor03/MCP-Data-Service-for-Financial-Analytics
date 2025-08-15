@@ -45,8 +45,8 @@ Clients issue natural language queries, which the server maps to specific tools.
    ```
 3. Create a `.env` file with the following variables:  
    ```bash
-   AUTH_TOKEN=730E024D
-   MY_NUMBER=917044607962
+   AUTH_TOKEN=YOUR_TOKEN
+   MY_NUMBER=YOUR_NUMBER
    ```
 4. Run the server:  
    ```bash
